@@ -10,7 +10,6 @@ A passionate **Cloud & DevOps Engineer** with a background in mechanical enginee
 
 ## 🛠️ Tools & Technologies I Use:
 
-# 🛠️ Tools & Technologies
 
 | AWS | Terraform | Docker | Kubernetes | Jenkins | Git | GitHub | VS Code | Ubuntu | Linux | Python |
 |------|-----------|--------|------------|---------|-----|--------|---------|--------|--------|--------|
