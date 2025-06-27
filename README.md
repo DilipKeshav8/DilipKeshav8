@@ -71,18 +71,6 @@ Automated CI/CD pipeline for a Flask app using Jenkins, Docker, and Kubernetes.
 
 ---
 
-## 📈 GitHub Stats
-
-![Dilip's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilipKeshav8&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilipKeshav8&layout=compact&theme=tokyonight)
-
----
-
-## 🌱 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/DilipKeshav8/DilipKeshav8/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 🌐 Connect with Me
