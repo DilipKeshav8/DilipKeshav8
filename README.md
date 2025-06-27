@@ -10,17 +10,12 @@ A passionate **Cloud & DevOps Engineer** with a background in mechanical enginee
 
 ## 🛠️ Tools & Technologies I Use:
 
-![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash)
+# 🛠️ Tools & Technologies
+
+| AWS | Terraform | Docker | Kubernetes | Jenkins | Git | GitHub | VS Code | Ubuntu | Linux | Python |
+|------|-----------|--------|------------|---------|-----|--------|---------|--------|--------|--------|
+| <img src="https://github.com/user-attachments/assets/a885e80a-964f-4e75-a4a6-27a063667ec7" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="55" height="55" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55" /> |
+
 
 ---
 
